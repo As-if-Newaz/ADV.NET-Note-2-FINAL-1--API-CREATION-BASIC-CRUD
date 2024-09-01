@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Adv.Net\\FINAL\\API EXAMPLE\\TestAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4897D26-090C-4AC7-A219-ADE127483872}|TestAPI\\TestAPI.csproj|d:\\adv.net\\final\\api example\\testapi\\testapi\\controllers\\studentsinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4897D26-090C-4AC7-A219-ADE127483872}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\controllers\\studentsinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4897D26-090C-4AC7-A219-ADE127483872}|TestAPI\\TestAPI.csproj|d:\\adv.net\\final\\api example\\testapi\\testapi\\ef\\studentsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4897D26-090C-4AC7-A219-ADE127483872}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\ef\\studentsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsInfo.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\FINAL\\API EXAMPLE\\TestAPI\\TestAPI\\EF\\StudentsInfo.cs",
+              "RelativeDocumentMoniker": "TestAPI\\EF\\StudentsInfo.cs",
+              "ToolTip": "D:\\Adv.Net\\FINAL\\API EXAMPLE\\TestAPI\\TestAPI\\EF\\StudentsInfo.cs",
+              "RelativeToolTip": "TestAPI\\EF\\StudentsInfo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T08:25:35.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsInfoController.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\FINAL\\API EXAMPLE\\TestAPI\\TestAPI\\Controllers\\StudentsInfoController.cs",
+              "RelativeDocumentMoniker": "TestAPI\\Controllers\\StudentsInfoController.cs",
+              "ToolTip": "D:\\Adv.Net\\FINAL\\API EXAMPLE\\TestAPI\\TestAPI\\Controllers\\StudentsInfoController.cs",
+              "RelativeToolTip": "TestAPI\\Controllers\\StudentsInfoController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAqwDsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T08:07:35.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
